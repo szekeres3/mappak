@@ -1,1 +1,60 @@
+{
+    "description": "",
+    "directories": [
+        {
+            "name": "naprendszer",
+            "path": "/naprendszer"
+        },
 
+        {
+            "name": "csillagok",
+            "path": "/naprendszer/csillagok"
+        },
+        {
+            "name": "Nap",
+            "path": "/naprendszer/csillagok/Nap"
+        },
+
+        {
+            "name": "bolygók",
+            "path": "/naprendszer/bolygók"
+        },
+        {
+            "name": "Merkúr",
+            "path": "/naprendszer/bolygók/Merkúr"
+        },
+        {
+            "name": "Vénusz",
+            "path": "/naprendszer/bolygók/Vénusz"
+        },
+        {
+            "name": "Föld",
+            "path": "/naprendszer/bolygók/Föld"
+        },
+        {
+            "name": "Mars",
+            "path": "/naprendszer/bolygók/Mars"
+        },
+        {
+            "name": "Jupiter",
+            "path": "/naprendszer/bolygók/Jupiter"
+        },
+        {
+            "name": "Szaturnusz",
+            "path": "/naprendszer/bolygók/Szaturnusz"
+        },
+        {
+            "name": "Uránusz",
+            "path": "/naprendszer/bolygók/Uránusz"
+        },
+        {
+            "name": "Neptunusz",
+            "path": "/naprendszer/bolygók/Neptunusz"
+        },
+
+        {
+            "name": "Hold",
+            "path": "/naprendszer/bolygók/Föld/holdak/Hold"
+        }
+    ]
+}
