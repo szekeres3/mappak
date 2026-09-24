@@ -31,8 +31,14 @@
                         "path": "/naprendszer/bolygók/Föld",
                         "entities": [
                             {
-                                "name": "Hold",
-                                "path": "/naprendszer/bolygók/Föld/holdak/Hold"
+                                "name": "holdak",
+                                "path": "/naprendszer/bolygók/Föld/holdak",
+                                "entities": [
+                                    {
+                                        "name": "Hold",
+                                        "path": "/naprendszer/bolygók/Föld/holdak/Hold"
+                                    }
+                                ]
                             }
                         ]
                     },
